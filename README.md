@@ -17,7 +17,7 @@ Sou estudante de **Engenharia de Software**, apaixonada por tecnologia e desenvo
   🔗 [Ver no GitHub](https://github.com/kamimlzrr/banco_de_dados_ong_alimentos)
 
 ## 🌐 Acesse o portfólio
-👉 https://seuusuario.github.io/portfolio
+👉 https://github.com/kamimlzrr/portfolio
 
 ## 📬 Contato
 - Email: kamille.melzer2@outlook.com  
